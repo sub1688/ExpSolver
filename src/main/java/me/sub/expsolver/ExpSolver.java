@@ -47,7 +47,7 @@ public enum ExpSolver {
 
         ClientCommandHandler.instance.registerCommand(new GuiCommand());
 
-        ClientFont.initializeFonts();
+        Minecraft.getMinecraft().addScheduledTask(ClientFont::initializeFonts);
     }
 
     public void log(Object object) {
