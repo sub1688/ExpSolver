@@ -1,0 +1,26 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "me.sub.expsolver.mixins",
+  "refmap": "mixins.expsolver.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "EntityRendererMixin",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiChest",
+    "MixinGuiContainer",
+    "MixinGuiIngame",
+    "MixinGuiMainMenu",
+    "MixinKeybinding",
+    "MixinMinecraft",
+    "MixinWorldClient"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "MixinEntity",
+    "MixinNetworkManager"
+  ]
+}

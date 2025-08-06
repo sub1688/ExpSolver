@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "expsolver",
+    "name": "expsolver",
+    "description": "Experimentation Table Solver",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "sub1688"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
