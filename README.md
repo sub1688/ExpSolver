@@ -1,16 +1,8 @@
-# Alkaline Client
+# ExpSolver
+discord: sub1688
 
-```
-       ,     ,
-       |\."./|
-      / _   _ \
-     / {|} {|} \  _
-     \==  Y  ==/ ( \
-      ;-._^_.-;   ) )
-     /   \_/   \ / /
-     |   (_)   |/ /
-    /|  |   |  |\/
-   | |  |   |  | |
-    \|  |___|  |/
-     '""'   '""'
-```
+## Usage
+/expsolver in game for settings GUI
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
